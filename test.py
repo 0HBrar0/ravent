@@ -6,4 +6,6 @@ while True:
     time.sleep(x)
     time.sleep(x)
     x += 1
+    print(x)
     print(f"Next Messxge will print in double of {x} seconds.")
+
